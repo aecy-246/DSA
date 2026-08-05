@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/aecy-246/DSA/tree/master/0622-design-circular-queue) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/aecy-246/DSA/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/aecy-246/DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
