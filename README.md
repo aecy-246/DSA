@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aecy-246/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/aecy-246/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/aecy-246/DSA/tree/master/0622-design-circular-queue) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aecy-246/DSA/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aecy-246/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
