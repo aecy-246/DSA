@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aecy-246/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aecy-246/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/aecy-246/DSA/tree/master/0622-design-circular-queue) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aecy-246/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/aecy-246/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aecy-246/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
