@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [0622-design-circular-queue](https://github.com/aecy-246/DSA/tree/master/0622-design-circular-queue) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aecy-246/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aecy-246/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/aecy-246/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aecy-246/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aecy-246/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/aecy-246/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aecy-246/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/aecy-246/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
