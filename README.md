@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aecy-246/DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aecy-246/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/aecy-246/DSA/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aecy-246/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aecy-246/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/aecy-246/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/aecy-246/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aecy-246/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aecy-246/DSA/tree/master/0075-sort-colors) |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aecy-246/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aecy-246/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
