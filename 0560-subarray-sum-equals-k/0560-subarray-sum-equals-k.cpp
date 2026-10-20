@@ -13,7 +13,7 @@ public:
                         ans++;
                     }
                 }
-                mp[i] = sum;
+                // mp[i] = sum;
             }
             else{
                 for(auto itr:mp){
@@ -21,8 +21,8 @@ public:
                         ans++;
                     }
                 }
-                mp[i] = sum;
             }
+                mp[i] = sum;
         }
         return ans;
     }
