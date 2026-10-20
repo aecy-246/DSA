@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aecy-246/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aecy-246/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aecy-246/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aecy-246/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aecy-246/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aecy-246/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aecy-246/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aecy-246/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aecy-246/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/aecy-246/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aecy-246/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aecy-246/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aecy-246/DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/aecy-246/DSA/tree/master/1768-merge-strings-alternately) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aecy-246/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aecy-246/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aecy-246/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aecy-246/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aecy-246/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aecy-246/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
